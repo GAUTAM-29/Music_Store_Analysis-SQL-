@@ -32,6 +32,8 @@ The project includes SQL queries solving real-world business problems such as:
 - Finding the top rock bands by counting their total tracks.
 - Identifying customers who listen to rock music.
 
+#### ✯ This project showcases SQL data analysis skills by performing advanced queries, using JOINs, GROUP BY,   ORDER BY, subqueries, and CTEs, and deriving actionable insights from a music store database. This project is an excellent addition to a Data Science portfolio, demonstrating SQL expertise in business intelligence and database management.
+
 ## Tools Used
 
 - MySQL Workbench: Used for writing and executing SQL queries.
@@ -53,9 +55,6 @@ ________________________________________________________________________________
 |SQL_Solved_Script.pdf   | Solutions to the SQL questions.                     |
 |SQL_Solved_Script.sql   | SQL script containing all queries.                  |
 |Dataset (11 CSV files)  | The raw data for the music store.                   |
-
-
-### ✯ This project showcases SQL data analysis skills by performing advanced queries, **using JOINs, GROUP BY, ORDER BY, subqueries, and CTEs, and deriving actionable insights** from a music store database. This project is an excellent addition to a **Data Science portfolio, demonstrating SQL expertise in business intelligence and database management**.
 
 ### Author: Gautam Acharya
 ### Contact: gautamacharya8665@gmaill.com
